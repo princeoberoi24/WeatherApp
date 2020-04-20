@@ -1,0 +1,5 @@
+- Communicate with an API
+- Use URLSession to make web requests
+- How to use closures
+- How to work with JSON
+- How to use LocationServices
